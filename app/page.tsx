@@ -532,7 +532,7 @@ export default function Home() {
                 {[
                   { name: "GitHub", handle: "@ShreyasThakur0809", url: "https://github.com/ShreyasThakur0809" },
                   { name: "LinkedIn", handle: "Shreyas Thakur", url: "https://www.linkedin.com/in/shreyas-thakur" },
-                  { name: "X.com", handle: "@Shreyas Thakur", url: "https://x.com/Shreyas__Thakur" },
+                  { name: "Twitter", handle: "@Shreyas Thakur", url: "https://x.com/Shreyas__Thakur" },
                   { name: "Telegram", handle: "@Shreyas Thakur", url: "https://t.me/artist_tyler"},
                 ].map((social) => (
                   <a
