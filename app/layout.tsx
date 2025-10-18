@@ -10,8 +10,8 @@ const geist = Geist({
 })
 
 export const metadata: Metadata = {
-  title: "Satyam Sharma",
-  description: "Software Engineer (AI & Backend)",
+  title: "Shreyas Thakur",
+  description: "Software Engineer (Web3 & Backend)",
   generator: "",
 }
 
