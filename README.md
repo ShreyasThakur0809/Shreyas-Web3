@@ -1,9 +1,11 @@
-# Portfolio Website
+# Shreyas Thakur - Web3 Developer Portfolio
 
-A clean, modern portfolio for a Software Engineer specializing in AI & Backend development. Built with Next.js and Tailwind CSS, it features smooth animations and dark/light theme support.
+A clean, modern, and fully responsive portfolio website for a Web3 & Full-Stack Developer. Built with Next.js, Tailwind CSS, and Framer Motion, it features a project showcase, an interactive work timeline, and a dark/light mode toggle.
 
 ## Features
 
+- **Project Showcase** - A dedicated section for in-depth project cards with descriptions, tech stacks, and links.
+- **Interactive Timeline** - A chronological timeline of work experience, achievements, and embedded tweets to showcase proof of work.
 - **Minimalist Design** - Clean, modern typography and a focus on content.
 - **Responsive Layout** - A mobile-first design that adapts seamlessly to all screen sizes.
 - **Theme Toggle** - A functional dark/light mode switcher.
@@ -23,10 +25,10 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/SatyamDev803/satyam-portfolio.git](https://github.com/SatyamDev803/satyam-portfolio.git)
+git clone https://github.com/ShreyasThakur0809/Shreyas-Web3.git
 
 # Navigate into the project directory
-cd satyam-portfolio
+cd Shreyas-Web3
 
 # Install dependencies (using pnpm as per your lockfile)
 pnpm install
