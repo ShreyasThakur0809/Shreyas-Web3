@@ -300,7 +300,7 @@ export default function Home() {
           location: "Online (Remote)",
           highlights: [
             {
-              text: "Intensive curriculum covering full-stack development for both EVM (Ethereum, Solidity, Foundry) ecosystems."
+              text: "Intensive curriculum covering full-stack development for EVM (Ethereum, Solidity, Foundry) ecosystems."
             },
             {
               text: "Gained practical experience building wallets, token launchpads, and DEXs, progressing from fundamentals to advanced topics like cross contracts invocation, and CPIs."
