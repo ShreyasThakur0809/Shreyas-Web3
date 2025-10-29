@@ -204,16 +204,6 @@ export default function Home() {
           tech: ["Arbitrum Stylus", "EVM", "Ethereum L2", "DAO Governance"],
         },
         {
-          year: "Mar 2025 – Present",
-          role: "Technical Contributor",
-          company: "Polkadot Developers/ Edgetributors SubDAO",
-          description: [
-            "Organised and Mentored students during Innovate 3.0 Hackathon (Title Sponsor – Polkadot), evaluating projects and guiding Web3 teams.",
-            "Represented Polkadot India Developer Community in university outreach initiatives and hands-on builder programs.",
-          ],
-          tech: ["Polkadot SDK", "Substrate", "Smart Contracts"],
-        },
-        {
           year: "Dec 2024 – Jan 2025",
           role: "Web3 Developer Intern",
           company: "Cubane (Enterprise L1 Blockchain)",
