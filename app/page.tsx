@@ -203,6 +203,7 @@ export default function Home() {
           ],
           tech: ["Arbitrum Stylus", "EVM", "Ethereum L2", "DAO Governance"],
         },
+  
         {
           year: "Dec 2024 – Jan 2025",
           role: "Web3 Developer Intern",
