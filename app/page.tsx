@@ -379,6 +379,16 @@ export default function Home() {
     <h2 className="text-3xl sm:text-4xl font-light">Projects</h2>
     <div className="grid gap-8 sm:gap-10">
       {[
+         {
+            title: "AvaxPay — Deep Link Payment Protocol on Avalanche",
+            description: [
+              "Developed a Stripe-like payment link protocol for Avalanche enabling instant crypto payments via shareable links and QR codes.",
+              "Features include no-code link generation, merchant dashboard, and subscription support; processed fast real-time transactions on the Avalanche network.",
+            ],
+            tech: ["Next.js", "TypeScript", "Node.js", "Express.js", "Avalanche", "TailwindCSS"],
+            liveUrl: "https://avaxpay.vercel.app/",
+            githubUrl: "https://github.com/ShreyasThakur0809/AvaxPay",
+          },
         {
           title: "Nexa — DeFi Yield Aggregator",
           description: [
@@ -401,17 +411,7 @@ export default function Home() {
           liveUrl: "https://vibe-three-rust.vercel.app",
           githubUrl: "https://github.com/ShreyasThakur0809/Vibe-Social-DApp",
         },
-        {
-          title: "Cakesmiths — Cake Shop Web App",
-          description: [
-            "Cakesmiths is a modern web application built for a local cake business to manage online orders and showcase products.",
-            "Implemented dynamic product listings, responsive design, and admin panel for order management.",
-            "Deployed the application using modern frontend tooling and SEO optimization for local discoverability.",
-          ],
-          tech: ["React", "Node.js", "Express.js", "MongoDB", "TailwindCSS"],
-          liveUrl: "https://cakesmiths.vercel.app/",
-          githubUrl: "https://github.com/ShreyasThakur0809/Cakesmiths",
-        },
+  
       ].map((project, index) => (
         <article
           key={index}
