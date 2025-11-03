@@ -98,7 +98,7 @@ export default function Home() {
                 {/* Languages */}
                 <div className="text-sm text-muted-foreground font-mono">Languages</div>
                 <div className="flex flex-wrap gap-2">
-                  {["JavaScript", "TypeScript", "Solidity", "SQL"].map((skill) => (
+                  {["JavaScript", "TypeScript", "Python", "Solidity", "SQL","C",].map((skill) => (
                     <span
                       key={skill}
                       className="px-3 py-1 text-xs border border-border rounded-full hover:border-muted-foreground/50 transition-colors duration-300"
