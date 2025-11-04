@@ -112,9 +112,9 @@ export default function Home() {
                 <div className="text-sm text-muted-foreground font-mono">Blockchain</div>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    
                     "Ethereum",
                     "Arbitrum",
+                    "Solana",
                     "Avalanche",
                     "Smart Contracts",
                     "Web3.js",
@@ -124,7 +124,6 @@ export default function Home() {
                     "Hardhat",
                     "Foundry",
                     "Near Protocol",
-                    "Polkadot",
                   ].map((skill) => (
                     <span
                       key={skill}
